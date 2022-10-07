@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/burgerbulder/static/css/main.2fe5232c.css",
+    "main.js": "/burgerbulder/static/js/main.975e48bf.js",
+    "static/js/787.9241d6c7.chunk.js": "/burgerbulder/static/js/787.9241d6c7.chunk.js",
+    "static/media/logo.png": "/burgerbulder/static/media/logo.ec69c7f65e6d7565759f.png",
+    "index.html": "/burgerbulder/index.html",
+    "main.2fe5232c.css.map": "/burgerbulder/static/css/main.2fe5232c.css.map",
+    "main.975e48bf.js.map": "/burgerbulder/static/js/main.975e48bf.js.map",
+    "787.9241d6c7.chunk.js.map": "/burgerbulder/static/js/787.9241d6c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fe5232c.css",
+    "static/js/main.975e48bf.js"
+  ]
+}

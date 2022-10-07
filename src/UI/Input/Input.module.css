@@ -1,0 +1,36 @@
+.Input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+}
+
+.Label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.DynamicInput {
+    outline: none;
+    border: 1px solid lightgray;
+    background-color: rgb(212, 211, 211);
+    padding: 6px 8px;
+    width: 300px;
+    border-radius: 5px;
+}
+
+.DynamicInput:focus {
+    background-color: rgb(240, 240, 240);
+    outline: none;
+    width: 350px;
+    border: 1px solid lightskyblue;
+    transition-property: background-color, width, border;
+    transition-duration: 0.3s;
+
+}
+
+.DynamicInput:hover {
+    border: 1px solid lightskyblue;
+}
